@@ -1,0 +1,8 @@
+[package]
+name = "drageo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+geo = "*"
+macaddr = "*"
